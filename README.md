@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java,html**
 
-- 💬 Ask me about **Python,c and html**
+- 💬 Ask me about
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
